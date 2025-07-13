@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A "página de receita" é um projeto inicial para testar minhas habilidades adquiridas ao longo de 1 semana.
+A "página de turismo" é um projeto inicial para testar minhas habilidades adquiridas ao longo de 1 semana.
 
 ## 🎨 Layout
 
